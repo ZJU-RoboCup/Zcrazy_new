@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Android after UI scroll fix",
+			"type": "shell",
+			"command": "cmake --build \"C:\\Users\\lenovo\\Desktop\\android_app\\out\\build\\android-qt-arm64\" -j 8",
+			"group": "build"
+		},
+		{
+			"label": "Rebuild Android with responsive right pane",
+			"type": "shell",
+			"command": "cmake --build \"C:\\Users\\lenovo\\Desktop\\android_app\\out\\build\\android-qt-arm64\" -j 8",
+			"group": "build"
+		},
+		{
+			"label": "Build Android with InfoViewer",
+			"type": "shell",
+			"command": "cmake --build \"C:\\Users\\lenovo\\Desktop\\android_app\\out\\build\\android-qt-arm64\" -j 8",
+			"group": "build"
+		},
+		{
+			"label": "Build Android with status model",
+			"type": "shell",
+			"command": "cmake --build \"C:\\Users\\lenovo\\Desktop\\android_app\\out\\build\\android-qt-arm64\" -j 8",
+			"group": "build"
+		}
+	]
+}

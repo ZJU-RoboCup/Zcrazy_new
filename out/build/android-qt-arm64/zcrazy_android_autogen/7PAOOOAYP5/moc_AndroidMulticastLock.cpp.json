@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "AndroidMulticastLock",
+            "object": true,
+            "qualifiedClassName": "AndroidMulticastLock",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "AndroidMulticastLock.h",
+    "outputRevision": 68
+}

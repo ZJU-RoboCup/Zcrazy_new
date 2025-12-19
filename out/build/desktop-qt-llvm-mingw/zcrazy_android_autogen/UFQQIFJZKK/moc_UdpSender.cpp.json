@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "UdpSender",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "UdpSender",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "UdpSender.h",
+    "outputRevision": 69
+}

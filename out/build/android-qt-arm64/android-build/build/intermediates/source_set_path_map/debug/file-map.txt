@@ -1,0 +1,9 @@
+org.qtproject.example.zcrazy_android-pngs-0 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\build\generated\res\pngs\debug
+org.qtproject.example.zcrazy_android-resValues-1 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\build\generated\res\resValues\debug
+org.qtproject.example.zcrazy_android-rs-2 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\build\generated\res\rs\debug
+org.qtproject.example.zcrazy_android-mergeDebugResources-3 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.qtproject.example.zcrazy_android-mergeDebugResources-4 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.qtproject.example.zcrazy_android-merged_res-5 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\build\intermediates\merged_res\debug
+org.qtproject.example.zcrazy_android-android-build-6 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\res
+org.qtproject.example.zcrazy_android-debug-7 C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\src\debug\res
+org.qtproject.example.zcrazy_android-java-8 F:\QT\6.5.3\android_arm64_v8a\src\android\java\res

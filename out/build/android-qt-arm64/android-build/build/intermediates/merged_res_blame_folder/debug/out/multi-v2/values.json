@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.qtproject.example.zcrazy_android-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "F:\\QT\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "46,49",
+                        "startColumns": "4,4",
+                        "startOffsets": "2421,2728",
+                        "endColumns": "107,97",
+                        "endOffsets": "2524,2821"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\Desktop\\android_app\\out\\build\\android-qt-arm64\\android-build\\res\\values\\libs.xml",
+                    "from": {
+                        "startLines": "4,-1,-1,-1,50,-1,-1",
+                        "startColumns": "4,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "148,-1,-1,-1,2466,-1,-1",
+                        "endLines": "6,-1,-1,-1,50,-1,-1",
+                        "endColumns": "12,-1,-1,-1,158,-1,-1",
+                        "endOffsets": "197,-1,-1,-1,2620,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,45,47,48,50",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,377,2370,2529,2688,2826",
+                        "endLines": "4,7,44,45,47,48,50",
+                        "endColumns": "12,12,12,50,158,39,47",
+                        "endOffsets": "104,372,2365,2416,2683,2723,2869"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\org.qtproject.example.zcrazy_android-mergeDebugResources-3:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\QT\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "85,193",
+                        "endColumns": "107,97",
+                        "endOffsets": "188,286"
+                    },
+                    "to": {
+                        "startLines": "46,49",
+                        "startColumns": "4,4",
+                        "startOffsets": "2421,2728",
+                        "endColumns": "107,97",
+                        "endOffsets": "2524,2821"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\Desktop\\android_app\\out\\build\\android-qt-arm64\\android-build\\res\\values\\libs.xml",
+                    "from": {
+                        "startLines": "4,46,8,52,50,53,51",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "148,2197,203,2673,2466,2724,2625",
+                        "endLines": "6,48,44,52,50,53,51",
+                        "endColumns": "12,12,12,50,158,47,47",
+                        "endOffsets": "197,2460,2191,2719,2620,2767,2668"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,45,47,48,50",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,377,2370,2529,2688,2826",
+                        "endLines": "4,7,44,45,47,48,50",
+                        "endColumns": "12,12,12,50,158,39,47",
+                        "endOffsets": "104,372,2365,2416,2683,2723,2869"
+                    }
+                }
+            ]
+        }
+    ]
+}

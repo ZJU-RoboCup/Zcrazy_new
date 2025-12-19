@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Network permissions for UDP/TCP usage -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- Needed for UDP multicast reception on Android -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <!-- Optional: keep CPU on during long-running control -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- App label & icons (place resources under android/res/mipmap-*) -->
+    <application
+        android:label="Zcrazy"
+        android:icon="@mipmap/zcrazy"
+        android:roundIcon="@mipmap/zcrazy" />
+</manifest>

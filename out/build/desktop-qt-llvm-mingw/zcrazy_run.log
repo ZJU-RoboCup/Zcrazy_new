@@ -1,0 +1,296 @@
+2025-11-02T21:37:26 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platforms" ...
+2025-11-02T21:37:26 [DEBUG] looking at "qwindows.dll"
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platforms/qwindows.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QPA.QPlatformIntegrationFactoryInterface.5.3",
+    "MetaData": {
+        "Keys": [
+            "windows"
+        ]
+    },
+    "archlevel": 1,
+    "className": "QWindowsIntegrationPlugin",
+    "debug": false,
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] Got keys from plugin meta data QList("windows")
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platforms/qwindows.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platformthemes" ...
+2025-11-02T21:37:26 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:46)
+2025-11-02T21:37:26 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:59)
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/qtquick2plugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuick2Plugin",
+    "debug": false,
+    "uri": [
+        "QtQuick"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/qtquick2plugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/qtquickcontrols2plugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2Plugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/qtquickcontrols2plugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Windows/qtquickcontrols2windowsstyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2WindowsStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.Windows"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Windows/qtquickcontrols2windowsstyleplugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Basic/qtquickcontrols2basicstyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2BasicStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.Basic"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Basic/qtquickcontrols2basicstyleplugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Fusion/qtquickcontrols2fusionstyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2FusionStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.Fusion"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Fusion/qtquickcontrols2fusionstyleplugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Templates/qtquicktemplates2plugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickTemplates2Plugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Templates"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Templates/qtquicktemplates2plugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/NativeStyle/qtquickcontrols2nativestyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2NativeStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.NativeStyle"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/NativeStyle/qtquickcontrols2nativestyleplugin.dll" loaded library
+2025-11-02T21:37:26 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/impl/qtquickcontrols2implplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlEngineExtensionInterface",
+    "archlevel": 1,
+    "className": "QtQuickControls2ImplPlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.impl"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:26 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/impl/qtquickcontrols2implplugin.dll" loaded library
+2025-11-02T21:37:27 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/accessible" ...
+2025-11-02T21:37:27 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:61)
+2025-11-02T21:37:27 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/accessiblebridge" ...
+2025-11-02T21:37:48 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platforms" ...
+2025-11-02T21:37:48 [DEBUG] looking at "qwindows.dll"
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platforms/qwindows.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QPA.QPlatformIntegrationFactoryInterface.5.3",
+    "MetaData": {
+        "Keys": [
+            "windows"
+        ]
+    },
+    "archlevel": 1,
+    "className": "QWindowsIntegrationPlugin",
+    "debug": false,
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] Got keys from plugin meta data QList("windows")
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platforms/qwindows.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/platformthemes" ...
+2025-11-02T21:37:48 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:46)
+2025-11-02T21:37:48 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:59)
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/qtquick2plugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuick2Plugin",
+    "debug": false,
+    "uri": [
+        "QtQuick"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/qtquick2plugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/qtquickcontrols2plugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2Plugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/qtquickcontrols2plugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Windows/qtquickcontrols2windowsstyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2WindowsStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.Windows"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Windows/qtquickcontrols2windowsstyleplugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Basic/qtquickcontrols2basicstyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2BasicStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.Basic"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Basic/qtquickcontrols2basicstyleplugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Fusion/qtquickcontrols2fusionstyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2FusionStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.Fusion"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/Fusion/qtquickcontrols2fusionstyleplugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Templates/qtquicktemplates2plugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickTemplates2Plugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Templates"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Templates/qtquicktemplates2plugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/NativeStyle/qtquickcontrols2nativestyleplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlExtensionInterface/1.0",
+    "archlevel": 1,
+    "className": "QtQuickControls2NativeStylePlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.NativeStyle"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/NativeStyle/qtquickcontrols2nativestyleplugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] Found metadata in lib C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/impl/qtquickcontrols2implplugin.dll, metadata=
+{
+    "IID": "org.qt-project.Qt.QQmlEngineExtensionInterface",
+    "archlevel": 1,
+    "className": "QtQuickControls2ImplPlugin",
+    "debug": false,
+    "uri": [
+        "QtQuick.Controls.impl"
+    ],
+    "version": 395776
+}
+
+
+2025-11-02T21:37:48 [DEBUG] "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/qml/QtQuick/Controls/impl/qtquickcontrols2implplugin.dll" loaded library
+2025-11-02T21:37:48 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/accessible" ...
+2025-11-02T21:37:48 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:61)
+2025-11-02T21:37:48 [DEBUG] checking directory path "C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/accessiblebridge" ...
+2025-11-02T21:39:30 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:46)
+2025-11-02T21:39:30 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:59)
+2025-11-02T21:39:31 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:61)
+2025-11-03T00:21:04 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:55)
+2025-11-03T00:21:04 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:68)
+2025-11-03T00:21:05 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:70)
+5-11-03T00:21:04 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:68)
+2025-11-03T00:21:05 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:70)
+2025-11-03T15:27:46 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:55)
+2025-11-03T15:27:46 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:68)
+2025-11-03T15:27:46 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:70)
+2025-11-03T15:28:04 [WARN] qrc:/qt/qml/ZCrazy/qml/UI.qml:162: ReferenceError: only_one is not defined (qrc:/qt/qml/ZCrazy/qml/UI.qml:162)
+2025-11-03T15:28:05 [WARN] qrc:/qt/qml/ZCrazy/qml/UI.qml:162: ReferenceError: only_one is not defined (qrc:/qt/qml/ZCrazy/qml/UI.qml:162)
+2025-11-03T16:24:46 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:55)
+2025-11-03T16:24:46 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:68)
+2025-11-03T16:24:46 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:70)
+2025-11-04T21:02:30 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:55)
+2025-11-04T21:02:30 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:68)
+2025-11-04T21:02:30 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:70)
+2025-11-07T16:22:45 [INFO] App started; setting up QML engine (C:/Users/lenovo/Desktop/android_app/src/main.cpp:55)
+2025-11-07T16:22:45 [INFO] Loading QML module ZCrazy/Main (C:/Users/lenovo/Desktop/android_app/src/main.cpp:68)
+2025-11-07T16:22:46 [INFO] Engine load finished; object count: 1 (C:/Users/lenovo/Desktop/android_app/src/main.cpp:70)

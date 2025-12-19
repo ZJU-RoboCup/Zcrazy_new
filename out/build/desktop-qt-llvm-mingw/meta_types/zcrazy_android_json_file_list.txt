@@ -1,0 +1,2 @@
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/zcrazy_android_autogen/include/../UFQQIFJZKK/moc_UdpSender.cpp.json
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/zcrazy_android_autogen/include/../UVLADIE3JM/moc_CommandClient.cpp.json

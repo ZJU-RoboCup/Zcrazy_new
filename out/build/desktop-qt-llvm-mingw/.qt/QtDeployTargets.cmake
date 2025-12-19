@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_zcrazy_android_FILE C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/zcrazy_android.exe)
+set(__QT_DEPLOY_TARGET_zcrazy_android_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_zcrazy_android_RUNTIME_DLLS F:/QT/6.10.0/llvm-mingw_64/bin/Qt6Quick.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6QmlMeta.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6QmlWorkerScript.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6QmlModels.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6Qml.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6Network.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6OpenGL.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6Gui.dll;F:/QT/6.10.0/llvm-mingw_64/bin/Qt6Core.dll)

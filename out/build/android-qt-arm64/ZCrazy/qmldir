@@ -1,0 +1,11 @@
+module ZCrazy
+typeinfo zcrazy_android.qmltypes
+prefer :/ZCrazy/
+Main 1.0 qml/Main.qml
+MainSimple 1.0 qml/MainSimple.qml
+ControlPanel 1.0 qml/ControlPanel.qml
+UI 1.0 qml/UI.qml
+ZGroupBox 1.0 qml/ZGroupBox.qml
+ZText 1.0 qml/ZText.qml
+InfoViewer 1.0 qml/InfoViewer.qml
+

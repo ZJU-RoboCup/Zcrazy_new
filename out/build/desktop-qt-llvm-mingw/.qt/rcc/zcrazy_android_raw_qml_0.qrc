@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/ZCrazy/">
+    <file alias="qml/Main.qml">C:/Users/lenovo/Desktop/android_app/qml/Main.qml</file>
+    <file alias="qml/ControlPanel.qml">C:/Users/lenovo/Desktop/android_app/qml/ControlPanel.qml</file>
+    <file alias="qml/UI.qml">C:/Users/lenovo/Desktop/android_app/qml/UI.qml</file>
+    <file alias="qml/ZGroupBox.qml">C:/Users/lenovo/Desktop/android_app/qml/ZGroupBox.qml</file>
+    <file alias="qml/ZText.qml">C:/Users/lenovo/Desktop/android_app/qml/ZText.qml</file>
+  </qresource>
+</RCC>
+

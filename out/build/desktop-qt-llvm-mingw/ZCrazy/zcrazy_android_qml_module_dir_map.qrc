@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ZCrazy">C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/ZCrazy</file>
+
+  </qresource>
+</RCC>

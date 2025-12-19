@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/lenovo/Desktop/android_app
+-cmake-output
+-output-file
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/.qt/qml_imports/zcrazy_android_build.cmake
+-importPath
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/ZCrazy
+-importPath
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw
+-importPath
+F:/QT/6.10.0/llvm-mingw_64/qml
+-qrcFiles
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/.qt/rcc/qmake_ZCrazy.qrc
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/.qt/rcc/zcrazy_android_raw_qml_0.qrc
+C:/Users/lenovo/Desktop/android_app/out/build/desktop-qt-llvm-mingw/.qt/rcc/zcrazy_android_raw_qml_0_extra_qmldirs.qrc

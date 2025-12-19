@@ -1,0 +1,70 @@
+{
+    "classes": [
+        {
+            "className": "RobotStatusModel",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "clear",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "team",
+                            "type": "int"
+                        },
+                        {
+                            "name": "robotId",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "getDetails",
+                    "returnType": "QVariantMap"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "detailEnabled",
+                    "notify": "detailEnabledChanged",
+                    "read": "detailEnabled",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setDetailEnabled"
+                }
+            ],
+            "qualifiedClassName": "RobotStatusModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "detailEnabledChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "name": "pruneOffline",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "RobotStatusModel.h",
+    "outputRevision": 68
+}

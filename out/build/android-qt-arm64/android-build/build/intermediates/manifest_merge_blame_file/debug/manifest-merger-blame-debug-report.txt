@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.qtproject.example.zcrazy_android"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:7:5-67
+12-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:8:5-81
+13-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:9:5-79
+14-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:10:5-65
+15-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:10:22-62
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:11:5-71
+16-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:11:22-68
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:12:5-68
+17-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:12:22-65
+18    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+18-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:13:5-80
+18-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:13:22-77
+19
+20    <supports-screens
+20-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:15:5-19:39
+21        android:anyDensity="true"
+21-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:16:9-34
+22        android:largeScreens="true"
+22-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:17:9-36
+23        android:normalScreens="true"
+23-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:18:9-37
+24        android:smallScreens="true" />
+24-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:19:9-36
+25
+26    <application
+26-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:20:5-52:19
+27        android:name="org.qtproject.qt.android.bindings.QtApplication"
+27-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:21:9-71
+28        android:allowBackup="true"
+28-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:26:9-35
+29        android:allowNativeHeapPointerTagging="false"
+29-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:25:9-54
+30        android:debuggable="true"
+31        android:fullBackupOnly="false"
+31-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:27:9-39
+32        android:hardwareAccelerated="true"
+32-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:22:9-43
+33        android:label="zcrazy_android"
+33-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:23:9-39
+34        android:requestLegacyExternalStorage="true" >
+34-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:24:9-52
+35        <activity
+35-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:28:9-51:20
+36            android:name="org.qtproject.qt.android.bindings.QtActivity"
+36-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:29:13-72
+37            android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation|mcc|mnc|density"
+37-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:30:13-182
+38            android:exported="true"
+38-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:34:13-36
+39            android:label="zcrazy_android"
+39-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:31:13-43
+40            android:launchMode="singleTop"
+40-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:32:13-43
+41            android:screenOrientation="unspecified" >
+41-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:33:13-52
+42            <intent-filter>
+42-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:35:13-38:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:36:17-69
+43-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:36:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:37:17-77
+45-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:37:27-74
+46            </intent-filter>
+47
+48            <meta-data
+48-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:40:11-42:50
+49                android:name="android.app.lib_name"
+49-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:41:17-52
+50                android:value="zcrazy_android" />
+50-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:42:17-47
+51            <meta-data
+51-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:44:11-46:36
+52                android:name="android.app.arguments"
+52-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:45:17-53
+53                android:value="" />
+53-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:46:17-33
+54            <meta-data
+54-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:48:13-50:43
+55                android:name="android.app.extract_android_style"
+55-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:49:17-65
+56                android:value="minimal" />
+56-->C:\Users\lenovo\Desktop\android_app\out\build\android-qt-arm64\android-build\AndroidManifest.xml:50:17-40
+57        </activity>
+58    </application>
+59
+60</manifest>

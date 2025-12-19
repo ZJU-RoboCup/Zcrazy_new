@@ -1,0 +1,129 @@
+{
+    "classes": [
+        {
+            "className": "CommandClient",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "robotID",
+                            "type": "int"
+                        },
+                        {
+                            "name": "velX",
+                            "type": "double"
+                        },
+                        {
+                            "name": "velY",
+                            "type": "double"
+                        },
+                        {
+                            "name": "velR",
+                            "type": "double"
+                        },
+                        {
+                            "name": "ctrl",
+                            "type": "double"
+                        },
+                        {
+                            "name": "mode",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "shoot",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "power",
+                            "type": "double"
+                        },
+                        {
+                            "name": "useImu",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "angle",
+                            "type": "double"
+                        },
+                        {
+                            "name": "controlAll",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "controlAllWhichTeam",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "updateCommandParams",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "sendCommand",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "ip",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "robotId",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "subscribeWithIp",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "v",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "setNeedChangeTeam",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "ipPrefix",
+                    "notify": "ipPrefixChanged",
+                    "read": "ipPrefix",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setIpPrefix"
+                }
+            ],
+            "qualifiedClassName": "CommandClient",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "ipPrefixChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "CommandClient.h",
+    "outputRevision": 68
+}

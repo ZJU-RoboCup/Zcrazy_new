@@ -1,0 +1,144 @@
+[
+    {
+        "classes": [
+            {
+                "className": "UdpSender",
+                "lineNumber": 7,
+                "object": true,
+                "qualifiedClassName": "UdpSender",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "UdpSender.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "CommandClient",
+                "lineNumber": 10,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "robotID",
+                                "type": "int"
+                            },
+                            {
+                                "name": "velX",
+                                "type": "double"
+                            },
+                            {
+                                "name": "velY",
+                                "type": "double"
+                            },
+                            {
+                                "name": "velR",
+                                "type": "double"
+                            },
+                            {
+                                "name": "ctrl",
+                                "type": "double"
+                            },
+                            {
+                                "name": "mode",
+                                "type": "bool"
+                            },
+                            {
+                                "name": "shoot",
+                                "type": "bool"
+                            },
+                            {
+                                "name": "power",
+                                "type": "double"
+                            },
+                            {
+                                "name": "useImu",
+                                "type": "bool"
+                            },
+                            {
+                                "name": "angle",
+                                "type": "double"
+                            },
+                            {
+                                "name": "controlAll",
+                                "type": "bool"
+                            },
+                            {
+                                "name": "controlAllWhichTeam",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 16,
+                        "name": "updateCommandParams",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 28,
+                        "name": "sendCommand",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "v",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 3,
+                        "lineNumber": 29,
+                        "name": "setNeedChangeTeam",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 12,
+                        "name": "ipPrefix",
+                        "notify": "ipPrefixChanged",
+                        "read": "ipPrefix",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false,
+                        "write": "setIpPrefix"
+                    }
+                ],
+                "qualifiedClassName": "CommandClient",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 38,
+                        "name": "ipPrefixChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "CommandClient.h",
+        "outputRevision": 69
+    }
+]

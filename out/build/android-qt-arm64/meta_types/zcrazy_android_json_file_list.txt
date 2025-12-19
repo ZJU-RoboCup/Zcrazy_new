@@ -1,0 +1,4 @@
+C:/Users/lenovo/Desktop/android_app/out/build/android-qt-arm64/zcrazy_android_autogen/include/../UFQQIFJZKK/moc_RobotStatusModel.cpp.json
+C:/Users/lenovo/Desktop/android_app/out/build/android-qt-arm64/zcrazy_android_autogen/include/../UFQQIFJZKK/moc_StatusReceiver.cpp.json
+C:/Users/lenovo/Desktop/android_app/out/build/android-qt-arm64/zcrazy_android_autogen/include/../UFQQIFJZKK/moc_UdpSender.cpp.json
+C:/Users/lenovo/Desktop/android_app/out/build/android-qt-arm64/zcrazy_android_autogen/include/../UVLADIE3JM/moc_CommandClient.cpp.json

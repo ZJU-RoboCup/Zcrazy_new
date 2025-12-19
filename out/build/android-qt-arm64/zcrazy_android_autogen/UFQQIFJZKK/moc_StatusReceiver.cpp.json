@@ -1,0 +1,74 @@
+{
+    "classes": [
+        {
+            "className": "StatusReceiver",
+            "object": true,
+            "qualifiedClassName": "StatusReceiver",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "team",
+                            "type": "int"
+                        },
+                        {
+                            "name": "robotId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "battery",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "multicastStatus",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "team",
+                            "type": "int"
+                        },
+                        {
+                            "name": "robotId",
+                            "type": "int"
+                        },
+                        {
+                            "name": "detail",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "name": "robotDetail",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "start",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "refreshJoins",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "onReadyRead",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "StatusReceiver.h",
+    "outputRevision": 68
+}

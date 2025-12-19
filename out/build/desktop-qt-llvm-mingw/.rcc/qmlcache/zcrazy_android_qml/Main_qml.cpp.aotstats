@@ -1,0 +1,175 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClosing",
+                            "line": 29,
+                            "message": "Could not find signal \"closing\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 212,
+                            "functionName": "onTriggered",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 26,
+                            "functionName": "onTriggered",
+                            "line": 26,
+                            "message": "Cannot find name needChangeTeamTickEnable"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 15,
+                            "durationMicroseconds": 102,
+                            "functionName": "width",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 39,
+                            "functionName": "height",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 48,
+                            "functionName": "left",
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 346,
+                            "functionName": "onPressed",
+                            "line": 39,
+                            "message": "Cannot find name needChangeTeamTickEnable"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 32,
+                            "functionName": "onPressed",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 17,
+                            "functionName": "needChangeTeamState",
+                            "line": 47,
+                            "message": "Cannot access value for name needChangeTeamTickEnable"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 43,
+                            "functionName": "cmdSender",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 39,
+                            "functionName": "height",
+                            "line": 54,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 39,
+                            "functionName": "right",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 12,
+                            "functionName": "needChangeTeam",
+                            "line": 62,
+                            "message": "Cannot access value for name needChangeTeamTickEnable"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 102,
+                            "functionName": "onNeedChangeTeamChanged",
+                            "line": 63,
+                            "message": "Cannot access value for name commandClient"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "updateCommandParams",
+                            "line": 65,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 69,
+                            "functionName": "sendCommand",
+                            "line": 68,
+                            "message": "Cannot access value for name commandClient"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "car_num",
+                            "line": 69,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 12,
+                            "functionName": "plotStart",
+                            "line": 70,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 9,
+                            "functionName": "plotStop",
+                            "line": 71,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 22,
+                            "functionName": "fill",
+                            "line": 61,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/lenovo/Desktop/android_app/qml/Main.qml"
+                }
+            ],
+            "moduleId": "ZCrazy(zcrazy_android)"
+        }
+    ]
+}
