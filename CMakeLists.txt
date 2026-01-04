@@ -33,6 +33,7 @@ qt_add_executable(zcrazy_android
 qt_add_qml_module(zcrazy_android
     URI ZCrazy
     VERSION 1.0
+    NO_PLUGIN
     QML_FILES
         qml/Main.qml
         qml/MainSimple.qml
